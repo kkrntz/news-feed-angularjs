@@ -7,7 +7,7 @@
     "angular-cookies": "^1.7.3",
     "angular-resource": "^1.7.4",
     "angular-translate": "^2.18.1",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-trendline": "0.0.3",
     "gulp-cli": "^2.0.1",
     "md-date-range-picker": "^0.8.3",
